@@ -50,7 +50,7 @@ Testing was performed by following documented procedures and comparing observed 
 
 **Test Cases Attributed to Me:** 37
 
-[View BRGY-AI Test Cases](PASTE_YOUR_GOOGLE_SHEETS_LINK_HERE)
+https://drive.google.com/file/d/1EiXaDCT1vAkLVKxDcNg4788HIoZ3P7ee/view?usp=sharing
 
 ## Key Learnings
 
